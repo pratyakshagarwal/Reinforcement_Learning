@@ -1,0 +1,2 @@
+Timestamp,observation,hidden_dim,hidden_dim2,action,epochs,loss_fn,optimizer,EPSIOLON,EPSILON_DECAY,GAMMA,MAX_TRANSITIONS,BATCH_SIZE,TARGET_UPDATE_AFTER,LEARN_AFTER_STEPS
+2024-02-25 23:26:39,2,64,32,3,1000,Huber,adam,1.0,1.005,0.99,100000,64,4,1000

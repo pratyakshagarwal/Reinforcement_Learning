@@ -1,0 +1,5 @@
+setup.py
+pratyaksh.egg-info/PKG-INFO
+pratyaksh.egg-info/SOURCES.txt
+pratyaksh.egg-info/dependency_links.txt
+pratyaksh.egg-info/top_level.txt

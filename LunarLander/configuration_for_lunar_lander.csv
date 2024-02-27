@@ -1,0 +1,2 @@
+Timestamp,observation,hidden_dims,action,epochs,loss_fn,optimizer,EPSIOLON,EPSILON_DECAY,GAMMA,MAX_TRANSITIONS,BATCH_SIZE,TARGET_UPDATE_AFTER,LEARN_AFTER_STEPS
+2024-02-26 17:04:45,8,"[64, 64, 64]",4,700,MeanSquaredError,adam,1.0,1.005,0.99,100000,64,4,1000
